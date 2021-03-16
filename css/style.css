@@ -109,6 +109,7 @@ p,span{
     justify-content: center;
     align-items: center;
     bottom: 0;
+    z-index: 1;
 }
 
 
